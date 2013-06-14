@@ -1,0 +1,33 @@
+[
+  {
+    "account":      "ravikirancg",
+    "repository":   "android_vendor_motorola_edison",
+    "target_path":  "vendor/motorola/edison",
+    "revision":     "master"
+    },
+  {
+    "account":      "ravikirancg",
+    "repository":   "android_device_motorola_edison",
+    "target_path":  "device/motorola/edison",
+    "revision":     "jellybean"
+  },
+  {
+    "account":      "STS-Dev-Team",
+    "repository":   "android_device_motorola_common",
+    "target_path":  "device/motorola/omap4-common",
+    "revision":     "jb-mr1"
+  },
+  {
+    "account":      "STS-Dev-Team",
+    "repository":   "android_vendor_motorola_common",
+    "target_path":  "vendor/motorola/omap4-common",
+    "revision":     "jb-mr1"
+  },
+  {
+    "account":     "ravikirancg"  
+    "repository":  "android_external_bootmenu"
+    "target_path": "external/bootmenu"
+    "revision":    "jellybean"
+  },
+
+]
